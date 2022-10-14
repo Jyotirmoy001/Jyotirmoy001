@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyotirmoy</h1>
+<img align="right" alt="coding" widht=""400 src="https://user-images.githubusercontent.com/21067777/195852210-7bd1eb4a-4835-4f1f-97b1-6a3a984a66af.png">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotirmoy001&label=Profile%20views&color=0e75b6&style=flat" alt="jyotirmoy001" /> </p>
 
 <h3 align="left">Connect with me:</h3>
